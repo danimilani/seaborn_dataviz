@@ -36,20 +36,21 @@ Count Plot: <br>
 <br>
 
 Scatter Plot: <br>
-Hue will define a third variable and hue_order will set the order accordingly:
+"Hue" will define a third variable and hue_order will set the order accordingly.<br>
+The first variable is Total Bill (x axis), the second variable is Tip (y axis) and the third variable is Smoker (Y/N), shown in the graph by colors: orange or blue.
 <br>
 ![Alt text](/screenshots/sns_scatter2_hue.JPG)
 
 <br>
 
-Count Plot 1: <br>
+Count Plot: <br>
 ![Alt text](/screenshots/sns_countplot2.JPG)
 
 <br>
 
-Count Plot 2: <br>
+Count Plot: <br>
 We can define the colors we want to be shown in the plot by creating a dictionary mapping subgroup:
 <br>
-![Alt text](/screenshots/sns_countplot2.JPG)
+![Alt text](/screenshots/sns_countplot2_palette.JPG)
 
 <br>
