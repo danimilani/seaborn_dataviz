@@ -49,7 +49,8 @@ Count Plot: <br>
 <br>
 
 Count Plot: <br>
-We can define the colors we want to be shown in the plot by creating a dictionary mapping subgroup:
+We can define the colors we want to be shown in the plot by creating a dictionary mapping subgroup.<br>
+In this example, the dictionary maps the value "Rural" to the color green and the value "Urban" to the color blue.
 <br>
 ![Alt text](/screenshots/sns_countplot2_palette.JPG)
 
