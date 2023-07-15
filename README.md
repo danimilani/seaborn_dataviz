@@ -1,6 +1,6 @@
 # Seaborn for Data Visualization
 
-## This repository has some files with Python codes that I developed while doing the Seaborn courses by DataCamp
+## This repository has some files with Python codes that I created while doing the Seaborn courses by DataCamp
 
 ## Course Scope
 
