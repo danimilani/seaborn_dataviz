@@ -75,11 +75,18 @@ In this example, the dictionary maps the value "Rural" to the color green and th
 
 **Relational Plots with relplot()**
 <br>
+<br>
+
 The Seaborn Relational Plot (relplot) allows us to visualise how variables within a dataset relate to each other. 
+
 <br>
+
 *Creating a Scatter Plot*
+
 <br>
+
 In this example, you can make subplots based on the study time by defining the variable "col":
+
 <br>
 
 ![Alt text](/screenshots/relplot1.JPG)
