@@ -1,6 +1,6 @@
 # Seaborn for Data Visualization
 
-## This repository has some files with Python codes that I created while doing the Seaborn courses by DataCamp
+This repository has some files with Python codes that I created while doing the Seaborn courses by DataCamp.
 
 ## Course Scope
 
@@ -18,41 +18,41 @@ Intermediate Data Visualization with Seaborn
 
 ## Key Takeaways
 
-- Plots with Lists
+**Plots with Lists**
 <br>
-<br>
-Creating a Scatter Plot
+*Creating a Scatter Plot*
 <br>
 
 ![Alt text](/screenshots/sns_scatter1.JPG)
 
 <br>
-Creating a Count Plot
+*Creating a Count Plot*
 <br>
 
 ![Alt text](/screenshots/sns_countplot1.JPG)
 
 <br>
 
-- Plots with Pandas DataFrames
+**Plots with Pandas DataFrames**
+<br>
+*Creating a Scatter Plot*
 <br>
 <br>
-Creating a Scatter Plot 
+"Hue" will define a third variable and hue_order will set the order accordingly.
 <br>
-"Hue" will define a third variable and hue_order will set the order accordingly.<br>
 The first variable is Total Bill (x axis), the second variable is Tip (y axis) and the third variable is Smoker (Y/N), shown in the graph by colors: orange or blue.
 <br>
 
 ![Alt text](/screenshots/sns_scatter2_hue.JPG)
 
 <br>
-Creating a Count Plot
+*Creating a Count Plot*
 <br>
 
 ![Alt text](/screenshots/sns_countplot2.JPG)
 
 <br>
-Creating a Count Plot
+*Creating a Count Plot*
 <br>
 We can define the colors we want to be shown in the plot by creating a dictionary mapping subgroup.<br>
 In this example, the dictionary maps the value "Rural" to the color green and the value "Urban" to the color blue.
@@ -62,12 +62,11 @@ In this example, the dictionary maps the value "Rural" to the color green and th
 
 <br>
 
-- Relational Plots with relplot()
-<br>
+**Relational Plots with relplot()**
 <br>
 The Seaborn Relational Plot (relplot) allows us to visualise how variables within a dataset relate to each other. 
 <br>
-Creating a Scatter Plot 
+*Creating a Scatter Plot*
 <br>
 In this example, you can make subplots based on the study time by defining the variable "col":
 <br>
@@ -75,7 +74,7 @@ In this example, you can make subplots based on the study time by defining the v
 ![Alt text](/screenshots/relplot1.JPG)
 
 <br>
-Changing Styles in Scatter Plots
+*Changing Styles in Scatter Plots*
 <br>
 <br>
 You can use Hue and Style to create different colored points and also to change the style of the points:
@@ -90,7 +89,7 @@ You can set the variable alpha to change the transparency of the points. This is
 ![Alt text](/screenshots/relplot_style2.JPG)
 
 <br>
-Changing Styles in Line Plots
+*Changing Styles in Line Plots*
 <br>
 <br>
 You can use Hue and Style to create different styles and colors of lines for subgroups:
