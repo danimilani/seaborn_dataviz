@@ -6,10 +6,10 @@ This repository has some files with Python codes that I created while doing the 
 
 Introduction to Data Visualization with Seaborn
 <br><br>
-[1. Introduction to Seaborn](#introduction-to-seaborn)
-[2. Visualizing two Quantitative Variables](#visualizing-two-quantitative-variables)
-3. Visualizing a Categorical and a Quantitative Variable
-4. Customizing Seaborn Plots
+[1. Introduction to Seaborn](#introduction-to-seaborn) <br>
+[2. Visualizing two Quantitative Variables](#visualizing-two-quantitative-variables) <br>
+[3. Visualizing a Categorical and a Quantitative Variable](#visualizing-categorical-and-a-quantitative-variable) <br>
+[4. Customizing Seaborn Plots](#customizing-seaborn-plots) <br>
 
 Intermediate Data Visualization with Seaborn
 1. Introduction to Seaborn
@@ -134,3 +134,9 @@ You can use Markers to create different marker styles on the subgroup lines:
 
 <br>
 
+### Visualizing a Categorical and a Quantitative Variable
+<br>
+
+
+### Customizing Seaborn Plots
+<br>
