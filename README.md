@@ -194,3 +194,35 @@ They show the mean of a quantitative variable for the observations in each categ
 
 ### Customizing Seaborn Plots
 <br>
+
+- Style: you can customize your graph with different styles: whitegrid, ticks, dark, darkgrid.
+<br>
+
+![Style 1](/screenshots/style_whitegrid.JPG)
+
+<br>
+
+![Style 2](/screenshots/style_ticks.JPG)
+
+<br>
+
+![Style 3](/screenshots/style_dark.JPG)
+
+<br>
+
+![Style 4](/screenshots/style_darkgrid.JPG)
+
+<br>
+
+- Palletes: you can customize the color palettes with diverging, sequential or your own palette.
+<br>
+
+![Palette 1](/screenshots/palette_diverging.JPG)
+
+<br>
+- Scales: you can change the scale of your plot with the function "set context" - the options are: options are: "paper", "notebook", "talk" and "poster".
+<br>
+
+![Scale 1](/screenshots/scale1.JPG)
+
+<br>
