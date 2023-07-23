@@ -30,7 +30,7 @@ Intermediate Data Visualization with Seaborn
 
 <br>
 
-![Alt text](/screenshots/sns_scatter1.JPG)
+![Scatter Plot](/screenshots/sns_scatter1.JPG)
 
 <br>
 
@@ -38,7 +38,7 @@ Intermediate Data Visualization with Seaborn
 
 <br>
 
-![Alt text](/screenshots/sns_countplot1.JPG)
+![Count Plot](/screenshots/sns_countplot1.JPG)
 
 <br>
 
@@ -54,7 +54,7 @@ Intermediate Data Visualization with Seaborn
 The first variable is Total Bill (x axis), the second variable is Tip (y axis) and the third variable is Smoker (Y/N), shown in the graph by colors: orange or blue.
 <br>
 
-![Alt text](/screenshots/sns_scatter2_hue.JPG)
+![Scatter Plot 2](/screenshots/sns_scatter2_hue.JPG)
 
 <br>
 
@@ -62,7 +62,7 @@ The first variable is Total Bill (x axis), the second variable is Tip (y axis) a
 
 <br>
 
-![Alt text](/screenshots/sns_countplot2.JPG)
+![Scatter Plot 3](/screenshots/sns_countplot2.JPG)
 
 <br>
 
@@ -73,7 +73,7 @@ We can define the colors we want to be shown in the plot by creating a dictionar
 In this example, the dictionary maps the value "Rural" to the color green and the value "Urban" to the color blue.
 <br>
 
-![Alt text](/screenshots/sns_countplot2_palette.JPG)
+![Count Plot 2](/screenshots/sns_countplot2_palette.JPG)
 
 <br>
 
@@ -96,7 +96,7 @@ In this example, you can make subplots based on the study time by defining the v
 
 <br>
 
-![Alt text](/screenshots/relplot1.JPG)
+![Rel Plot](/screenshots/relplot1.JPG)
 
 <br>
 
@@ -107,13 +107,13 @@ In this example, you can make subplots based on the study time by defining the v
 You can use Hue and Style to create different colored points and also to change the style of the points:
 <br>
 
-![Alt text](/screenshots/relplot_style1.JPG)
+![Rel Plot Style](/screenshots/relplot_style1.JPG)
 
 <br>
 You can set the variable alpha to change the transparency of the points. This is very useful to help with the data visualization when you have many points in your Scatterplot.
 <br>
 
-![Alt text](/screenshots/relplot_style2.JPG)
+![Rel Plot Style 2](/screenshots/relplot_style2.JPG)
 
 <br>
 
@@ -124,19 +124,73 @@ You can set the variable alpha to change the transparency of the points. This is
 You can use Hue and Style to create different styles and colors of lines for subgroups:
 <br>
 
-![Alt text](/screenshots/relplot_line1.JPG)
+![Line Plot Style](/screenshots/relplot_line1.JPG)
 
 <br>
 You can use Markers to create different marker styles on the subgroup lines:
 <br>
 
-![Alt text](/screenshots/relplot_line2.JPG)
+![Line Plot Style 2](/screenshots/relplot_line2.JPG)
 
 <br>
 
 ### Visualizing a Categorical and a Quantitative Variable
 <br>
 
+*Count Plots and Bar Plots*
+
+<br>
+
+- catplot() for Categorical Plots: comparisons between groups - count plots and bar plots - kind = "count" <br>
+- catplot() for Bar Plots: displays the mean of quantitative variable per category - kind = "bar". The confidence interval is automatically set as 95% but can be changed via "ci" <br>
+
+![Cat Plot Style 1](/screenshots/cat_quant_1.JPG)
+
+<br>
+
+![Cat Plot Style 2](/screenshots/cat_quant_2.JPG)
+
+<br>
+
+*Box Plots*
+
+<br>
+
+A box plot shows the distribution of quantitative data. The color box represents the 25th to 75th percentile and the line in the middle of the box represents the median. The whiskers give a sense of the spread of the distribution and the floating points, the outliers. <br>
+
+<br>
+
+![Box Plot Style 1](/screenshots/box_1.JPG)
+
+<br>
+
+![Box Plot Style 2](/screenshots/box_2.JPG)
+
+<br>
+
+![Box Plot Style 3](/screenshots/box_3.JPG)
+
+<br>
+
+*Point Plots*
+
+<br>
+
+They show the mean of a quantitative variable for the observations in each category, plotted as a single point. The vertical lines show the interval of confidence. One of the axis is a categorical variable.
+
+<br>
+
+![Point Plot Style 1](/screenshots/point_1.JPG)
+
+<br>
+
+![Point Plot Style 2](/screenshots/point_2.JPG)
+
+<br>
+
+![Point Plot Style 3](/screenshots/point_3.JPG)
+
+<br>
 
 ### Customizing Seaborn Plots
 <br>
