@@ -220,6 +220,7 @@ They show the mean of a quantitative variable for the observations in each categ
 ![Palette 1](/screenshots/palette_diverging.JPG)
 
 <br>
+
 - Scales: you can change the scale of your plot with the function "set context" - the options are: options are: "paper", "notebook", "talk" and "poster".
 <br>
 
