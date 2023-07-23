@@ -5,7 +5,7 @@ This repository has some files with Python codes that I created while doing the 
 ## Course Scope
 
 Introduction to Data Visualization with Seaborn
-1. Introduction to Seaborn
+[1. Introduction to Seaborn](#introduction-to-seaborn)
 2. Visualizing two Quantitative Variables
 3. Visualizing a Categorical and a Quantitative Variable
 4. Customizing Seaborn Plots
@@ -17,6 +17,8 @@ Intermediate Data Visualization with Seaborn
 4. Create Plots on Data Aware Grids
 
 ## Key Takeaways
+
+### Introduction to Seaborn 
 
 **Plots with Lists**
 <br>
