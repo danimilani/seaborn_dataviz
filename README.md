@@ -5,8 +5,9 @@ This repository has some files with Python codes that I created while doing the 
 ## Course Scope
 
 Introduction to Data Visualization with Seaborn
+<br><br>
 [1. Introduction to Seaborn](#introduction-to-seaborn)
-2. Visualizing two Quantitative Variables
+[2. Visualizing two Quantitative Variables](#visualizing-two-quantitative-variables)
 3. Visualizing a Categorical and a Quantitative Variable
 4. Customizing Seaborn Plots
 
@@ -19,6 +20,7 @@ Intermediate Data Visualization with Seaborn
 ## Key Takeaways
 
 ### Introduction to Seaborn 
+<br>
 
 **Plots with Lists**
 <br>
@@ -73,6 +75,9 @@ In this example, the dictionary maps the value "Rural" to the color green and th
 
 ![Alt text](/screenshots/sns_countplot2_palette.JPG)
 
+<br>
+
+### Visualizing two Quantitative Variables
 <br>
 
 **Relational Plots with relplot()**
